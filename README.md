@@ -1,2 +1,2 @@
-# estudos-linguagem-programa-o
-Linguagens de Programação para Estudos
+# Repositório Linguagem de Programação
+#Linguagens de Programação para Estudos
